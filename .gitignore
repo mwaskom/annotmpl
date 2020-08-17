@@ -1,0 +1,13 @@
+*.pyc
+*.sw*
+build/
+.ipynb_checkpoints/
+dist/
+*.egg-info/
+.cache/
+.coverage
+cover/
+htmlcov/
+.idea/
+.vscode/
+.pytest_cache/
